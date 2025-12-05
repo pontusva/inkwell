@@ -1,6 +1,6 @@
 # Inkwell
 
-A high-performance PDF rendering engine written in Rust. Inkwell accepts a JSON-based layout description and generates pixel-perfect PDF documents with support for flexbox-like layouts, text wrapping, images, SVG graphics, and tables.
+A high-performance PDF rendering engine written in Rust. Inkwell accepts a JSON-based layout description and generates pixel-perfect (well, maybe not yet!) PDF documents with support for flexbox-like layouts, text wrapping, images, SVG graphics, and tables.
 
 ## Features
 
